@@ -1,6 +1,8 @@
 Go to [How to Grade in Learning Suite.md](/resources/How-to-Grade-in-Learning-Suite.md) 
 to see how to get to the grader and begin grading. 
 
+**Always** list point deductions in the comments so that students understand why they may have gotten points deducted. 
+
 Note: "-3" means subtract three points.
 
 # Lab #:
