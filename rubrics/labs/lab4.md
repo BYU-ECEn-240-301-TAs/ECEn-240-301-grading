@@ -21,7 +21,8 @@ Note: "-3" means subtract three points.
 ```4) Paste your Arduino code for Milestone 2 (20 points)```
 - 0 points if they didn't submit any code. Email or message them requesting it.
   - -5 points if they send the code. 
-- -3 if their tau threshold is 25. That means they didn’t change it.
+- -3 if their TAU_THRESHOLD is 25. That means they didn’t change it.
+  - Some students have TAU_THRESHOLD defined but didn't use it in their isCapactivieSensorTouched() function. That is okay. Give them the points as long as they compare tau to something other than 25, e.g. (tau > 500), even if TAU_THRESHOLD is still defined as 25. 
 - -5 if the capacitive sensor isn’t implemented correctly (i.e. not using analogWrite or something crazy)
 - -10 if the code obviously doesn’t work
 
